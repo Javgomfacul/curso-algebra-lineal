@@ -1,4 +1,4 @@
-# Ejemplo de diagonalización de una matriz cuadrada
+# Ejemplo de diagonalización de una matriz cuadrada ada ada
 
 A = rbind(c(2,-2,1), c(2,-8,-2), c(1,2,2))
 isSymmetric(A)
